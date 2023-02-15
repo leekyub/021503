@@ -1,0 +1,25 @@
+.container{
+    width:8000px;
+}
+.site-content{
+    width: 600px;
+    height:400px;
+    background-color:skyblue;
+    float: left;
+}
+
+.site-img{
+    height:400px;
+    width:100px;
+    background-color: yellow;
+    float:left;
+}
+.profile{
+    float:left;
+}
+.name{
+    float:left;
+}
+.hajme.html{
+    float:left;
+}
